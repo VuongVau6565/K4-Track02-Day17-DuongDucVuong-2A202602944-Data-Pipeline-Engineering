@@ -4,7 +4,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 Định dạng tham chiếu và phạm vi tính trang: [SUBMISSION.md](../docs/SUBMISSION.md).
 
 **Họ tên / MSSV: Dương Đức Vương / 2A020602944**
-**Repo: https://github.com/VuongVau6565/K4-Track02-Day17-Data-Pipeline-Engineering**
+**Repo: https://github.com/VuongVau6565/K4-Track02-Day17-DuongDucVuong-2A202602944-Data-Pipeline-Engineering**
 **Commit bài nộp:** `fbf74549564cf474f0b59b1452db9dd4b07cd131` (HEAD hiện tại)
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Copilot SDK trong VS Code — hỗ trợ phân tích lỗi, sửa pipeline, cập nhật REPORT và chạy kiểm thử/parity.
 **Nguồn tham khảo khác (nếu có):** Không.
